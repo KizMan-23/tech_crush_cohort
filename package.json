@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-docker-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js application for Docker deployment assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["nodejs", "docker"],
+  "author": "Your Name",
+  "license": "ISC"
+}
